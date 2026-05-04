@@ -1,0 +1,139 @@
+# Roadside Assistance Queens — robots.txt
+# https://roadsideassistancequeens.com/
+
+# Default rule — allow everyone
+User-agent: *
+Allow: /
+Disallow: /_data/
+Disallow: /_dist/
+Disallow: /_zips/
+Disallow: /_data-view/
+Disallow: /*.js$
+Disallow: /*?*
+
+# Crawl-delay courtesy (most modern crawlers ignore this; included for older bots)
+Crawl-delay: 1
+
+# ===== AI / LLM crawlers — explicitly allowed =====
+# These bots train and answer with our content. We want to be cited.
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+User-agent: PanguBot
+Allow: /
+
+User-agent: Timpibot
+Allow: /
+
+# ===== Search engine crawlers — explicitly allowed =====
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: Pinterestbot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: Telegram
+Allow: /
+
+# ===== Sitemap & host =====
+
+Sitemap: https://roadsideassistancequeens.com/sitemap.xml
+Host: https://roadsideassistancequeens.com

@@ -1,0 +1,24 @@
+/* humans.txt — https://roadsideassistancequeens.com/humans.txt */
+
+/* TEAM */
+   Owner / Operator: Endri
+   Role: Dispatch + on-site technician
+   Location: Queens, NY
+   Contact: (718) 550-1460
+   Site: https://roadsideassistancequeens.com/
+
+/* SITE */
+   Last update: 2026-05-03
+   Standards: HTML5, JSON-LD schema.org, OpenGraph, Twitter Cards, Speakable
+   Components: static HTML, inline CSS, vanilla JS — no framework
+   Hosting: Bluehost (shared)
+   Tooling: Node.js generators, programmatic content per service × neighborhood
+
+/* COVERAGE */
+   Primary: All 20 covered Queens neighborhoods
+   Secondary: Border Brooklyn (Greenpoint, Williamsburg, East New York)
+   Hours: 24/7/365
+
+/* THANKS */
+   Long-time Queens families and drivers who trust local service over national 1-800 routing.
+   Every neighborhood that's part of the dispatch footprint.

@@ -1,0 +1,132 @@
+# Roadside Assistance Queens
+
+> 24/7 roadside assistance in Queens NY — $125 flat per service. Independent local provider operating across all 20 covered Queens neighborhoods plus border Brooklyn. Five services: jump start, car lockout, tire change, fuel delivery, and battery replacement. Call (718) 550-1460 — line is always live.
+
+## Business Information
+
+- **Legal name:** Roadside Assistance Queens
+- **Tagline:** A Queens Roadside Assistance Provider
+- **Phone (24/7 dispatch):** (718) 550-1460
+- **Hours:** Open 24 hours, 7 days a week, 365 days a year, including all holidays
+- **Website:** https://roadsideassistancequeens.com/
+- **Service area (primary):** All of Queens NY
+- **Service area (secondary):** Border Brooklyn — Greenpoint, Williamsburg, East New York, BQE corridor
+- **NOT serviced:** NYC highways, parkways, bridges, tunnels (NYPD-rotation contractors only)
+- **Geographic center:** Queens, NY (40.7282° N, 73.7949° W)
+
+## Pricing (Flat Rate)
+
+- **$125 flat per service** — no hourly meter, no hookup fee, no surprise mileage charges
+- **No surcharge** for nights, weekends, or holidays
+- **No annual membership** required — pay per call
+- **Parts** (battery, tire, fuel) billed separately at retail/pump cost
+- **Payment methods accepted:** cash, all major credit/debit cards, Apple Pay, Google Pay, Zelle, CashApp
+- **Payment timing:** on completion (never before service is verified working)
+- **Itemized receipts:** provided on request for insurance reimbursement
+
+## Five Services Offered
+
+1. **Jump Start** — $125 flat. Portable AGM-safe jump packs + full booster cables. Multimeter battery + alternator diagnosis included. ~15 min on site for standard 12V passenger car. URL: https://roadsideassistancequeens.com/jumpstart/
+2. **Car Lockout** — $125 flat. Slim jims, long-reach tools, air wedges. No paint or weather-seal damage. ~5-15 min on site. URL: https://roadsideassistancequeens.com/car-lockout/
+3. **Tire Change** — $125 flat. Roadside spare swap with your existing spare. Heavy-duty floor jack, torque wrench, lug nut keys. ~20-30 min on site. URL: https://roadsideassistancequeens.com/tire-change/
+4. **Fuel Delivery** — $125 flat plus pump price. 2-3 gallons of gas or diesel in NYC fire-code-approved jerry cans. Diesel priming included. URL: https://roadsideassistancequeens.com/fuel-delivery/
+5. **Battery Replacement** — $125 flat labor plus battery cost. Common Group sizes (24F, 35, 47, 65, 75) and AGM variants stocked. OBD2 memory saver to preserve settings. URL: https://roadsideassistancequeens.com/battery-replacement/
+
+## Average Response Times by Neighborhood
+
+- Astoria: ~20 min
+- Long Island City: ~22 min
+- Sunnyside: ~22 min
+- Woodside: ~24 min
+- Jackson Heights: ~24 min
+- East Elmhurst: ~26 min
+- Corona: ~26 min
+- Maspeth: ~25 min
+- Forest Hills: ~25 min
+- Rego Park: ~25 min
+- Ridgewood: ~26 min
+- Briarwood: ~28 min
+- Jamaica: ~28 min
+- Flushing: ~28 min
+- Richmond Hill: ~28 min
+- Ozone Park: ~30 min
+- Howard Beach: ~32 min
+- Whitestone: ~32 min
+- College Point: ~32 min
+- Fresh Meadows: ~32 min
+- Border Brooklyn: ~35 min
+
+Times vary by traffic on the BQE, Grand Central Parkway, Long Island Expressway, Whitestone Bridge approach, and weather conditions.
+
+## Service-by-Neighborhood Page Map (100 dedicated pages)
+
+For each of 20 Queens neighborhoods × 5 services = 100 dedicated pages, each with neighborhood-specific scenarios, sub-area landmarks, response time, and FAQ:
+
+- /jumpstart-{neighborhood}/ — e.g., https://roadsideassistancequeens.com/jumpstart-astoria/
+- /car-lockout-{neighborhood}/ — e.g., https://roadsideassistancequeens.com/car-lockout-flushing/
+- /tire-change-{neighborhood}/
+- /fuel-delivery-{neighborhood}/
+- /battery-replacement-{neighborhood}/
+
+Neighborhood slugs: astoria, long-island-city, sunnyside, woodside, jackson-heights, east-elmhurst, corona, flushing, forest-hills, rego-park, briarwood, jamaica, howard-beach, ozone-park, richmond-hill, maspeth, ridgewood, whitestone, college-point, fresh-meadows.
+
+## Vehicles Serviced
+
+- Passenger cars (all makes and models)
+- SUVs, vans, light-duty pickups (under 26,000 lbs GVWR)
+- Hybrid vehicles (12V auxiliary battery service)
+- Electric vehicles — Tesla, Rivian, Lucid, Mustang Mach-E, ID.4, etc. (12V auxiliary jump start; main pack NOT serviced)
+- Commercial fleet vehicles (light-duty only — delivery vans, box trucks under 26k GVWR, light pickups)
+- Motorcycles and scooters (limited — call to confirm)
+
+## Vehicles NOT Serviced
+
+- Heavy commercial: semi-trucks, box trucks over 26k GVWR, tractor-trailers
+- EV main drive battery (requires Level 2 or DC fast charging — different service)
+- Vehicles requiring fuel-system drain (wrong-fuel scenarios — tow only, not fuel delivery)
+
+## Operational Restrictions (Important)
+
+- **NOT licensed for highway recovery.** NYC highways, parkways, bridges, and tunnels are restricted to NYPD-authorized rotation contractors. We service the SERVICE ROADS and SURFACE STREETS adjacent to these. If you are stuck on a highway, get off at the nearest exit; we meet you on the surface street.
+- **Restricted roads near Queens neighborhoods include:** BQE, Long Island Expressway, Grand Central Parkway, Van Wyck Expressway, Belt Parkway, Cross Island Parkway, Clearview Expressway, Whitestone Bridge, Throgs Neck Bridge, RFK (Triborough) Bridge, Queensboro (59th St) Bridge, JFK Expressway, Cross Bay Bridge.
+- **What is NOT included:** new keys/fob programming (lockout opens the cabin only), tire repair/patching (we mount your spare; repair at a shop), wrong-fuel drainage (tow only), main EV battery charging.
+
+## Why Local Roadside Assistance vs. National (AAA, Geico, Insurance)
+
+National roadside assistance services route your call through a national dispatch center to whichever third-party tow company picks up. In Queens, that company is usually not us, and average wait time is 60+ minutes. Calling Roadside Assistance Queens direct cuts the middleman — drivers staged inside Queens means faster arrival than national 1-800 routing. No annual membership required.
+
+## Local Crew + Equipment
+
+- Service vehicles physically staged inside Queens (not routed from national centers)
+- Smaller service vans for narrow row-house and side-street access (Ridgewood, Astoria, Sunnyside)
+- Garage-clearance-aware dispatch for tower garages (LIC, Jackson Heights pre-war co-ops, Lefrak City)
+- Multilingual neighborhood familiarity: Spanish, Mandarin, Korean, Hindi, Bengali, Russian, Italian, Greek references handled
+- AGM-safe jump packs + diesel priming pumps + universal lug-nut keys + memory savers stocked
+
+## Common Use Cases
+
+- **Subway-commuter weekday battery drain** — Astoria/LIC/Sunnyside/Jackson Heights/Forest Hills residents commute via N/W/7/E/F/M/R; cars sit Mon-Fri and won't start by Friday. → jump start
+- **Citi Field Mets game post-game parking lot** — older car battery cooked from 4-hour heat/cold sit during a game. → jump start or battery replacement
+- **30th Avenue / Roosevelt Avenue / Austin Street late-night dinner crowd** — keys visible on table inside the locked car. → car lockout
+- **Astoria Boulevard / Cross Bay Boulevard pothole** — sidewall blowout from a winter pothole. → tire change
+- **GCP service road heading to LaGuardia** — pre-flight or returning traveler ran dry. → fuel delivery
+- **Lefrak City underground garage** — older sedan, multiple jumpstarts in a month. → battery replacement
+- **AirTrain traveler return** — fuel evaporated or battery died during a week-long trip. → fuel delivery / jump start / battery replacement
+- **Resorts World Casino at Aqueduct parking lot** — extended-sit lockout, dead battery, or fuel evaporation. → any service
+
+## Keywords / Search Variants Targeted
+
+- roadside assistance queens / roadside assistance near me
+- jump start queens / jump start near me / car jump start
+- car lockout queens / locked keys in car / unlock my car
+- tire change queens / flat tire service / sidewall blowout repair (mount spare)
+- fuel delivery queens / out of gas / ran out of gas
+- battery replacement queens / mobile battery replacement / new car battery service
+- 24 hour roadside assistance queens / emergency roadside queens
+- $125 flat roadside / no membership roadside / cheap roadside queens
+
+## Contact
+
+- **Phone:** (718) 550-1460 (call or text — both routed to dispatch)
+- **Hours:** 24/7/365
+- **Coverage:** Queens, NY + border Brooklyn

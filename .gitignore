@@ -1,0 +1,31 @@
+# Build outputs (regenerable from generators)
+_dist/
+_zips/
+_data-view/
+
+# Dev tooling
+node_modules/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Env / secrets (none yet, but standard)
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temp
+tmp/
+temp/

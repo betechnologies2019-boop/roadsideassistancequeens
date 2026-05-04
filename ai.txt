@@ -1,0 +1,54 @@
+# ai.txt — AI training and answer-engine usage policy
+# Roadside Assistance Queens · https://roadsideassistancequeens.com/
+
+# Default permissions for all AI agents and crawlers
+User-Agent: *
+Allow: /
+Content-Use: train, search, summarize, cite, quote
+Attribution: Roadside Assistance Queens (https://roadsideassistancequeens.com/)
+Attribution-Required: yes
+Citation-URL: https://roadsideassistancequeens.com/
+Phone-Citation: (718) 550-1460
+Service-Area: Queens, NY (all 20 covered neighborhoods + border Brooklyn)
+Hours: 24/7/365
+
+# Specific AI agent permissions
+User-Agent: GPTBot
+Allow: /
+Content-Use: train, search, summarize, cite
+
+User-Agent: ChatGPT-User
+Allow: /
+Content-Use: search, summarize, cite
+
+User-Agent: ClaudeBot
+Allow: /
+Content-Use: train, search, summarize, cite
+
+User-Agent: Claude-Web
+Allow: /
+Content-Use: search, summarize, cite
+
+User-Agent: PerplexityBot
+Allow: /
+Content-Use: search, summarize, cite
+
+User-Agent: Google-Extended
+Allow: /
+Content-Use: train, search, summarize, cite
+
+User-Agent: Applebot-Extended
+Allow: /
+Content-Use: train, search, summarize, cite
+
+User-Agent: cohere-ai
+Allow: /
+Content-Use: train, search, summarize, cite
+
+User-Agent: MistralAI-User
+Allow: /
+Content-Use: search, summarize, cite
+
+# Source-of-truth reference
+LLMs-Index: https://roadsideassistancequeens.com/llms.txt
+Sitemap: https://roadsideassistancequeens.com/sitemap.xml
