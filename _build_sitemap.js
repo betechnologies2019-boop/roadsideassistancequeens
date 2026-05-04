@@ -3,8 +3,8 @@ const path = require('path');
 const services = require('./_data/services.js');
 const neighborhoods = require('./_data/neighborhoods.js');
 
-const today = '2026-05-03';
-const base = 'https://roadsideassistancequeens.com';
+const today = '2026-05-04';
+const base = 'https://www.roadsideassistancequeens.com';
 
 const urls = [];
 
